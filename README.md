@@ -7,5 +7,5 @@
 
 <img src="http://campus.lecolededesign.com/uploads/49fe3e.jpg" />
 <br />
-<img src="http://campus.lecolededesign.com/uploads/9f5985.jpg" />
+<img src="http://campus.lecolededesign.com/uploads/652d94.JPG" />
 <br />
